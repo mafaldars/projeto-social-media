@@ -25,7 +25,8 @@ section#mobile {
     transform: translate(-50%, -50%);
 
     height: 500px;
-    width: 500px;
+    width: 300px;
     background-color: orange;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: blue url('../imagens/frame-iphone.png') no-repeat;
+
 }
